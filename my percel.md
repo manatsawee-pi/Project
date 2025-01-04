@@ -1,5 +1,5 @@
 # My percel
-(https://onlinegdb.com/zUVZiMMDZ)[https://onlinegdb.com/zUVZiMMDZ]
+[https://onlinegdb.com/zUVZiMMDZ](https://onlinegdb.com/zUVZiMMDZ)
 
 ระบบจัดการพัสดุ (ชื่อโปรเจค MyParcel)
 - พัฒนาโดยใช้ภาษา c++ โดยทำงานร่วมกับระบบ file
